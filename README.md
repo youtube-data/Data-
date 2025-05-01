@@ -34,4 +34,4 @@ For more detailed information, refer to the `YOUTUBE DATA ANALYSIS.pdf` and `YOU
 
 Final PowerBI Analysis:
 
-![Description of Screenshot](path/to/screenshot.png)
+<img width="1405" alt="Screenshot 2025-04-30 at 10 03 00 PM" src="https://github.com/user-attachments/assets/84e5d475-498f-4e0e-9c16-07596a1e7057" />
