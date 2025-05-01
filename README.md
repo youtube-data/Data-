@@ -31,3 +31,7 @@ The project leverages several AWS services:
 
 ## Additional Resources
 For more detailed information, refer to the `YOUTUBE DATA ANALYSIS.pdf` and `YOUTUBE DATA ANALYSIS-2.pptx` files included in the project.
+
+Final PowerBI Analysis:
+
+![Description of Screenshot](path/to/screenshot.png)
